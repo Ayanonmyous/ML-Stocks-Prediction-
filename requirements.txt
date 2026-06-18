@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+jupyter
+ipykernel
+dash
+dash-html-components
+dash-core-components
